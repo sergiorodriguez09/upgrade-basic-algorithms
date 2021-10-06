@@ -2,7 +2,7 @@ const number1 = 10;
 const number2= 10;
 const number3= 2;
 
-if (number2 / number1 == 10) {
+if ((number2 / number1) == 10) {
     console.log ("number2 dividido entre number1 es igual a 2");
 }
 
@@ -14,7 +14,7 @@ if (number3 != number1) {
     console.log ("number3 es igual es distinto a number1");
 }
 
-if (number3 * 5 == number1) {
+if ((number3 * 5) == number1) {
     console.log ("number3 por 5 es igual a number1");
 }
 
