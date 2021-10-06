@@ -5,7 +5,7 @@ character.age = 25;
 
 console.log(character);
 
-/*. 1.2 */ 
+/*. 1.2  */ 
 
 let firstName = "Jon";
 let lastName = "Snow";
