@@ -24,7 +24,7 @@ let arraySheep = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for (let i = 0; i < arraySheep.length ; i++) {
     if (arraySheep [i] <= 9) {
     console.log("Intentando dormir"); } 
-    else {
+    else if (arraySheep [i] = 10) {
     console.log("Dormido!")
     }
 }
